@@ -1,2 +1,2 @@
 # New
-my personal repo
+personal repo for git learnng
